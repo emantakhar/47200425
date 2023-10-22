@@ -20,7 +20,6 @@
             <main>
                 <section>
                     <h1>Eman Singh Takhar</h1>
-                    <img src="Eman10.jpeg.jpeg" alt="Eman Singh Takhar">
                 </section>
                 <section>
                     <h2>About Me</h2>
@@ -29,7 +28,7 @@
                 <section>
                     <h2>Education</h2>
                     <ul>
-                        <p>Highschool Diploma - Khalsa Secondary School</p>
+                        <p>Highschool Diploma - Khalsa Secondary School </p>
                         <p>Currently Studying at BCIT - Information Technology</p>
                     </ul>
                 </section>
@@ -62,60 +61,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Eman Singh Takhar - Blog</title>
     <link rel="stylesheet" href="styles1.css">
-    <style>
-        body, html {
-            height: 100%;
-            margin: 0;
-            display: flex;
-            flex-direction: column;
-        }
-
-        body {
-                background-image: url('newyork3.jpeg');
-                color: #ffffff;
-                background-size: cover;
-                font-family: Arial, Helvetica, sans-serif;
-                margin: 0;
-                padding: 0;
-            }
-    
-            .container {
-                display: flex;
-                flex-direction: column;
-                min-height: 100vh;
-            }
-    
-            header {
-                background-color: #000000;
-                color: #ffffff;
-                padding: 15px 0;
-                text-align: center;
-            }
-    
-            main {
-                padding: 20px;
-                text-align: center;
-            }
-    
-            section {
-                margin-bottom: 40px;
-                text-align: center;
-            }
-    
-            img {
-                max-width: 100%;
-                height: auto;
-                margin: 0 auto;
-            }
-    
-            footer {
-                background-color: #ffffff(255, 255, 255);
-                color: #ffffff;
-                text-align: center;
-                padding: 10px 0;
-                width: 100%;
-            }
-    </style>
 </head>
 <body>
     <div class="container">
