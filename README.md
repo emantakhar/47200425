@@ -17,8 +17,8 @@
     <body>
         <div class="container">
             <header>
-                 <a href="file:///C:/Users/etakh/Downloads/EmanWebpage.html">Home</a>
-                 <a href="file:///C:/Users/etakh/Downloads/EmanWebpageBlog.html">Blog</a>
+                 <a href="///C:/Users/etakh/Downloads/EmanWebpage.html">Home</a>
+                 <a href="///C:/Users/etakh/Downloads/EmanWebpageBlog.html">Blog</a>
             </header>
             <main>
                 <section>
