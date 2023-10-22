@@ -6,13 +6,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles1.css">
-    <title>Eman's - Webpage</title>
+    Eman's - Webpage
     <!DOCTYPE html>
     <html lang="en">
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Eman's - Webpage</title>
+        Full Name: Eman Singh Takhar
     </head>
     <body>
         <div class="container">
